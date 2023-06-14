@@ -12,10 +12,16 @@ const Header = () => {
           <a href="" className="text-3xl  transition duration-1000">
             <Icon icon="logos:ethereum-color" />
           </a>
-          <a href="" className="text-5xl  transition duration-1000">
+          <a
+            href="https://twitter.com/HolyRaptorGang"
+            className="text-5xl  transition duration-1000"
+          >
             <Icon icon="openmoji:twitter" />{" "}
           </a>
-          <a href="" className="text-2xl  transition duration-1000">
+          <a
+            href="https://t.me/HolyRaptorGang"
+            className="text-2xl  transition duration-1000"
+          >
             <Icon icon="logos:telegram" />{" "}
           </a>
         </div>

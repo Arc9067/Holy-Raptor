@@ -1,10 +1,12 @@
 import React from "react";
+import Jesus from "../assets/jesus3.png";
 
 const Map = () => {
   return (
     <section className="py-[50px] bg-black w-full">
       <div className="container flex justify-center items-center flex-col">
-        <h1 className="md:text-6xl text-6xl font-bold">
+        <img src={Jesus} alt="" className="md:max-w-[20rem]" />
+        <h1 className="md:text-6xl mt-10 text-6xl font-bold">
           <span className="text-orange-500">road</span> map
         </h1>
 
