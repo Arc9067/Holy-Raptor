@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="py-[20px] w-full bg-red-700">
       <div className="container flex justify-center flex-col items-center">
         <a href="" className="text-4xl md:text-5xl capitalize">
-          holy <span className="text-orange-400">raptor</span>
+          holy <span className="text-orange-400">raptor</span> gang
         </a>
         <div className="flex items-center gap-2">
           <a href="" className="text-3xl  transition duration-1000">
