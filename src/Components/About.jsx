@@ -7,7 +7,7 @@ const About = () => {
       <div className="container grid lg:grid-cols-2 justify-between items-center gap-10">
         <article>
           <h1 className="md:text-6xl text-6xl font-bold">
-            about <span className="text-orange-500">holy</span> raptor
+            about the <span className="text-orange-500">holy</span> raptor gang
           </h1>{" "}
           <div className="flex flex-col gap-4 mt-14">
             <p className="text-xl">
