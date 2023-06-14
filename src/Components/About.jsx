@@ -1,5 +1,6 @@
 import React from "react";
 import Jesus1 from "../assets/jesus1.png";
+import Jesus from "../assets/jesus4.png";
 
 const About = () => {
   return (
@@ -9,6 +10,7 @@ const About = () => {
           <h1 className="md:text-6xl text-6xl font-bold">
             about the <span className="text-orange-500">holy</span> raptor gang
           </h1>{" "}
+          <img src={Jesus} alt="" className="md:hidden" />
           <div className="flex flex-col gap-4 mt-14">
             <p className="text-xl">
               <span className="text-orange-500">According</span> to the beliefs

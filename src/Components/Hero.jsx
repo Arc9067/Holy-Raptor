@@ -1,6 +1,5 @@
 import React from "react";
 import Logo from "../assets/logo.png";
-import Jesus from "../assets/jesus4.png";
 
 const Hero = () => {
   return (
@@ -24,7 +23,6 @@ const Hero = () => {
           </a>
         </article>
         <img src={Logo} alt="" className="rounded-full" />
-        <img src={Jesus} alt="" className="md:hidden" />
       </div>
     </section>
   );
