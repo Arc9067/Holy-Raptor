@@ -3,10 +3,10 @@ import { Icon } from "@iconify/react";
 
 const Header = () => {
   return (
-    <header className="py-3 w-full bg-black">
+    <header className="py-3 w-full bg-black header">
       <nav className="container flex justify-between items-center">
         <a href="" className="text-4xl md:text-5xl capitalize">
-          holy <span className="text-orange-400">raptor</span>
+          holy <span className="text-orange-400">raptor</span> Gang
         </a>
         <div className="flex items-center gap-2">
           <a href="" className="text-3xl  transition duration-1000">
