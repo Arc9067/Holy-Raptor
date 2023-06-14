@@ -9,9 +9,9 @@ import { gsap } from "gsap";
 
 const App = () => {
   useEffect(() => {
-    gsap.from(".header", {
-      opacity: 0.5,
-    });
+    // gsap.from(".header", {
+    //   opacity: 0.5,
+    // });
   }, []);
   return (
     <div className="min-h-screen w-full font-canterBurry text-white">
