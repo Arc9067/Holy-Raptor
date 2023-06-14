@@ -10,10 +10,9 @@ const Hero = () => {
             Holy <span className="text-orange-500">Raptor</span> Gang
           </h1>
           <p className="font-lato text-xl">
-            According to the beliefs of some, God created the holy raptor as a
-            powerful and majestic creature. The raptor was designed to be a
-            symbol of strength, courage, and wisdom. It was also created to be a
-            protector of the natural world and all its inhabitants.
+            The Holy Raptor Gang was formed as a powerful and majestic united
+            force. Originating in 2006 from the most controversial memes in
+            4chan history.
           </p>
 
           <a
