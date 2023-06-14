@@ -3,7 +3,7 @@ import Logo from "../assets/logo.png";
 
 const Hero = () => {
   return (
-    <section className="py-[100px] w-full hero">
+    <section className="py-[100px] w-full ">
       <div className="container grid gap-10 lg:grid-cols-2 justify-between items-center">
         <article className="flex flex-col gap-4">
           <h1 className="md:text-8xl text-7xl font-bold">

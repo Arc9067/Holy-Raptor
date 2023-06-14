@@ -1,7 +1,7 @@
 import React from "react";
 import Jesus1 from "../assets/jesus1.png";
 
-const Token = () => {
+const About = () => {
   return (
     <section className="py-[50px] w-full bg-black">
       <div className="container grid lg:grid-cols-2 justify-between items-center gap-10">
@@ -51,4 +51,4 @@ const Token = () => {
   );
 };
 
-export default Token;
+export default About;
