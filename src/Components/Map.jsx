@@ -26,7 +26,7 @@ const Map = () => {
               phase 2
             </div>
             <ul className="flex flex-col w-full list-disc font-mono list-inside">
-              <li className="">Get Holy Raptor trending on Twitter</li>
+              <li className="">Get Holy Raptor Gang trending on Twitter</li>
               <li className="">Marketing Campaign</li>
               <li className="">Initial Cex Listings</li>
               <li className="">Community Growth </li>
