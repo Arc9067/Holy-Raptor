@@ -14,11 +14,11 @@ const App = () => {
     // });
   }, []);
   return (
-    <div className="min-h-screen w-full font-canterBurry text-white">
+    <div className="min-h-screen bg-primary w-full font-canterBurry text-white">
       <Header />
       <Hero />
-      <About />
       <Token />
+      <About />
       <Map />
       <Footer />
     </div>

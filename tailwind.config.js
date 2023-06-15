@@ -17,6 +17,9 @@ export default {
         lato: ["Lato", "sans-serif"],
         canterBurry: ["Canter Burry", "sans-serif"],
       },
+      colors: {
+        primary: "#1DA1F2",
+      },
     },
   },
   plugins: [],
